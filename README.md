@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-## Hi!
-My name is Juan David, i'm  from Colombia 
+
+### My name is Juan David, i'm  from Colombia 
 
 * Currently Studying data science engineering in UPB-Medellín
 * Experience in Python and Java
