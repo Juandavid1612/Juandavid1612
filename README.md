@@ -10,7 +10,7 @@
 
 ## Skills
 
-* Using Python🐍 for 4 years now
+* Using Python🐍 since 2020
 * Some Java coding
 * Experience in Clustering, IA about image classification and webscrapping
 * I can Speak Fluently: Spanish, English And im learning Japanese 
