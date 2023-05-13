@@ -3,14 +3,23 @@
 
 **Juandavid1612/Juandavid1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi!
+My name is Juan David, i'm  from Colombia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* Currently Studying data science engineering in UPB-Medellín
+* Experience in Python and Java
+* Learning about IA, willing to learn new things 
 
+## Skills
+
+* Using Python for 4 years now
+* Some Java coding
+* Experience in Clustering, IA about image classification and webscrapping
+* I can Speak Fluently: Spanish, English And im learning Japanese 
+
+## Projects
+
+* Picasso´s,Van Gohg´s and Kubin´s painting classifier :https://colab.research.google.com/drive/1XxfPn6bnhpxSk_AnSBpGIWHGTxnuylt2?usp=sharing
+* Webscrapping about elden ring positive vs bad reviews:https://colab.research.google.com/drive/1Kkqnlpl7c1Lfu4LAE36xex52Wczumgwz?usp=sharing
+* Video Games and their sales based in their Genre in different locations: https://colab.research.google.com/drive/1sohSQiyKASDA88I_onkIinVUc8aNJpPg?usp=sharing
+* Clusters in dataset about clients : https://colab.research.google.com/drive/1iyIpFpCgXqgrFL0-jrrX4h8llQjD5rwe?usp=sharing
