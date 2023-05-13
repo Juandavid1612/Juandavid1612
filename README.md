@@ -20,3 +20,8 @@
 * Webscrapping about elden ring positive vs bad reviews:https://colab.research.google.com/drive/1Kkqnlpl7c1Lfu4LAE36xex52Wczumgwz?usp=sharing
 * Video Games and their sales based in their Genre in different locations: https://colab.research.google.com/drive/1sohSQiyKASDA88I_onkIinVUc8aNJpPg?usp=sharing
 * Clusters in dataset about clients : https://colab.research.google.com/drive/1iyIpFpCgXqgrFL0-jrrX4h8llQjD5rwe?usp=sharing
+
+## Conctact me :D 
+
+* Email: juandavidriossanchez11@gmail.com
+
