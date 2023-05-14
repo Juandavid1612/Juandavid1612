@@ -22,7 +22,7 @@
 * Video Games 🎮 and their sales based in their Genre in different locations: https://colab.research.google.com/drive/1sohSQiyKASDA88I_onkIinVUc8aNJpPg?usp=sharing
 * Clusters in dataset about clients : https://colab.research.google.com/drive/1iyIpFpCgXqgrFL0-jrrX4h8llQjD5rwe?usp=sharing
 
-### More information about these projects in my repositories, go chek them ;) 
+### ⭐ More information about these projects in my repositories, go chek them ⭐
 
 ## Conctact me :D 
 
